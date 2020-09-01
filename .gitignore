@@ -1,0 +1,5 @@
+#model
+#data
+*.tar
+data/MNIST
+data/MNIST_backup
